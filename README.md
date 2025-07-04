@@ -64,10 +64,10 @@ A powerful web application that enables real-time voice translation with smart t
 ### For Developers
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/voice-translator.git
+git clone https://github.com/vinaydanidhariya/Transify.git
 
 # Navigate to project directory
-cd voice-translator
+cd Transify 
 
 # Open in your preferred code editor
 code .
