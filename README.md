@@ -22,7 +22,7 @@ A powerful web application that enables real-time voice translation with smart t
 
 ![Voice Translator Interface](https://via.placeholder.com/800x400/667eea/ffffff?text=Voice+Translator+Demo)
 
-**Try it live:** [transify.theworkpc.com]
+**Try it live:** [transify.theworkpc.com](https://transify.theworkpc.com)
 
 ## 🛠️ How It Works
 
