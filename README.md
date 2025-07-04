@@ -61,20 +61,6 @@ A powerful web application that enables real-time voice translation with smart t
 4. Click the microphone icon to start speaking
 5. View real-time transcription and translation
 
-### For Developers
-```bash
-# Clone the repository
-git clone https://github.com/vinaydanidhariya/Transify.git
-
-# Navigate to project directory
-cd Transify 
-
-# Open in your preferred code editor
-code .
-
-# Open index.html in Google Chrome for testing
-```
-
 ## 🎨 Key Features Breakdown
 
 ### 1. Smart Transcription
